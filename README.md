@@ -53,8 +53,6 @@ Rather than presenting only clean, confirmatory findings, this project documents
 /dashboard
   superstore_dashboard.pbix             -- Power BI report (5 pages)
 
-/data
-  superstore_kaggle.xlsx                -- Source dataset (Orders, Returns, People)
 ```
 
 ---
