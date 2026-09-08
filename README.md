@@ -6,6 +6,27 @@ A KRA-driven data analysis project examining profitability, shipping operations,
 **Period covered:** January 2014 – December 2017
 **Tools:** Google BigQuery · SQL · Power BI
 
+📌 **Note:** This dashboard was built in Power BI Desktop. Full-page screenshots of all 5 pages are below — no Power BI installation needed to review the work. The `.pbix` file is also available in `/dashboard` for anyone who wants to explore it interactively.
+
+---
+
+## Dashboard Preview
+
+### Title Page
+![Title Page](dashboard_images/01_title_page.jpg)
+
+### Performance Overview
+![Performance Overview](dashboard_images/02_performance_overview.jpg)
+
+### Profitability
+![Profitability](dashboard_images/03_profitability.jpg)
+
+### Operations
+![Operations](dashboard_images/04_operations.jpg)
+
+### Customer Behavior
+![Customer Behavior](dashboard_images/05_customer_behavior.jpg)
+
 ---
 
 ## Project Overview
@@ -53,6 +74,14 @@ Rather than presenting only clean, confirmatory findings, this project documents
 /dashboard
   superstore_dashboard.pbix             -- Power BI report (5 pages)
 
+/dashboard_images
+  01_title_page.jpg
+  02_performance_overview.jpg
+  03_profitability.jpg
+  04_operations.jpg
+  05_customer_behavior.jpg              -- Full-page screenshots for viewing without Power BI
+
+Dataset: Kaggle Superstore Sales dataset (linked above, not included in repo)
 ```
 
 ---
